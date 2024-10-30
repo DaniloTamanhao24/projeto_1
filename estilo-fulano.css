@@ -1,6 +1,11 @@
 h1{
     font-size: large;
 }
+<<<<<<< HEAD
 strong {
     font-weight: 100;
+=======
+a {
+    text-decoration: underline;
+>>>>>>> 28787864a2f625137f79497e7701d88185500e7e
 }
